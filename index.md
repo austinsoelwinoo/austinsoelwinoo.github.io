@@ -1,17 +1,15 @@
-### Randheer Kumar Singh 
+### Soe Lwin Oo
 _Android ∙ Java ∙ Kotlin ∙ React Native_
 * * *
 
 #### About Me
 
-> Android @ foodpanda
-> 
-> Software Engineer with experience in building awesome Android Application using Kotlin, Java, and React Native.
+> Software Engineer with experience in building awesome Android Applications using Kotlin, Java, and React Native.
 
 
 #### Skills
 - Programming Languages:
-  > Java, Kotlin
+  > Java, Kotlin, Typescript
 
 - Frameworks:
   > Android, React Native
@@ -36,10 +34,5 @@ AWS Cognito, RxJava, RxAndroid
   > Image/Video Processing, FFmpeg, BLE, REST
 API/GraphQL
   
-#### Publication
-  - [Real Time Auto Controllable Traffic Management System](https://www.krishisanskriti.org/vol_image/03Jul201510073021.pdf):
-  Journal of Basic and Applied Engineering Research, Krishi Sanskriti publications.
-    Print ISSN: 2350-0077; Online ISSN: 2350-0255; Volume 1, Number 8; October, 2014  pp. 78-82 
-  
 #### Connect with Me
-  - [LinkedIn](https://www.linkedin.com/in/randheer094/)
+  - [LinkedIn](https://www.linkedin.com/in/soelwinoo0110/)
